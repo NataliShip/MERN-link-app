@@ -1,0 +1,26 @@
+{
+  "name": "mern-link-app",
+  "version": "1.0.0",
+  "description": "link app, MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliShip/MERN-link-app.git"
+  },
+  "keywords": [
+    "MERN",
+    "Mongodb",
+    "React",
+    "Express",
+    "Node"
+  ],
+  "author": "Nataliya Shipelova <natulechka_m.25@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NataliShip/MERN-link-app/issues"
+  },
+  "homepage": "https://github.com/NataliShip/MERN-link-app#readme"
+}
